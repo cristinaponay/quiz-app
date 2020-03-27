@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz Bee</string>
+    <string name="txtEnterYourName">Enter your name:</string>
+    <string name="txtYourName">Your name</string>
+    <string name="txtPlay">Play</string>
+    <string name="txtSubmit">Submit</string>
+    <string name="txtAppLogo">App logo</string>
+    <string name="txtRoadSigns">Quiz Bee</string>
+    <string name="txtQuestion">What does this sign mean?</string>
+    <string name="txtDescription">This area will show the road sign that the user must guess</string>
+    <string name="txtYourScore">You scored: 20/20</string>
+    <string name="txtPlayAgain">Play Again?</string>
+    <string name="txtHello">Hello there!</string>
+    <string name="txtQuit">Quit</string>
+    <string name="txtOptions">Option</string>
+    <string name="txtQuizOpt">Choose a quiz</string>
+    <string-array name="txtChoices">
+        <item>NS Road Signs</item>
+        <item>Android Quiz</item>
+    </string-array>
+</resources>
